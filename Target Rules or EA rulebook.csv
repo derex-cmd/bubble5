@@ -1,0 +1,225 @@
+Driver
+Driver
+Driver
+IM
+IM
+IM
+IM
+Maintenance
+Maintenance
+Maintenance
+Public
+Public
+Public
+Railway workers
+Railway workers
+Railway workforce
+Railway workforce
+Train Crew
+Train Crew
+Train controller
+Train operating staff
+2.1.1 - Context
+2.1.1.1 - Establish spatial envelope around each train in one section of line at a time
+2.1.1.2 - Space interval effective against collision
+"2.1.1.3 - Space interval reduced or eliminated for permissive working or train failure, but not coupling or uncoupling"
+2.1.1.4 - Written operating procedures or spoken instructions when the signalling system cannot be used to preserve the effectiveness of the space interval
+2.1.1.5 - Authority of train movements under normal or degraded conditions
+2.1.2 - Control operation under normal conditions
+2.1.2.1 - IM Authorises Permissive Working
+2.1.2.2 Control permissive working location
+2.1.2.3 Reduce likelihood of collisions.Due to excessive speed or insufficient space for second train.Incorrect train driver response to signal or in-cab indication.Incorrect response to signal or spoken message for another train
+2.1.2.4 Assist Failed Train.Prompt and accurate failure and location reporting (inc. safeguards).Clear understanding/protocol between signaller and train driver regarding direction which assistance will come
+2.1.2.5 Control movements in the opposite direction than signalled on the line
+2.1.2.6 Control wrong direction working including people working on or near the line
+2.1.2.7 Control engineering works interface with moving trains
+2.1.3 Control - Operations under degraded conditions
+2.1.3.1 Train control or signalling partially or totally degraded -> operating procedures
+2.1.3.2 Cover all degraded conditions:clear understanding between signaller and train drivers:spoken protocol comms between signaller and train drivers
+2.1.3.3  Planned response and resources support Operating Rules
+2.2.1 Context
+2.2.1.1 Safety is compromised if a train proceeds without a movement autority
+2.2.1.2 Movement authority consists of permission to move and defined end point.System operation releases a token (physical or electronic) authorising entry onto a section of single line. Token limit to end of section.Visually displayed to the train driver through a signalling system
+2.2.1.4 Train proceeds without authority intervene (automatically)
+2.2.1.5 Signalling system cannot be used spoken or written instructions are employed
+2.2.1.6 Shunting movements
+2.2.1.7 Signalling system cannot be used to authorise a movement a third party maybe used to pass movement instructions and confirm they have been successfully completed
+2.2.2 Controls
+2.2.2.1 Control signalling systems operating rules and procedures
+2.2.2.2 Control operating and procedures by each system when the signalling system cannot be used to authorise a movement
+"2.2.2.3 Signallers, train drivers and operations have clear understanding.Signal indications or displays (inc hand signals).Signalling equipment terms.Spoken and written instructions"
+2.2.2.4 Control signalling systems protocols with clear communication
+2.2.2.5 Control train proceeding without a movement authority
+2.2.2.6 Control permission to pass a signal at danger
+2.3.1 Context
+2.3.1.1 Collision and derailment risk due to obstruction
+2.3.1.10 Authorising train movements (into and withing) moved to person in charge of blocked section. Leaving blocked section is moved back to signaller
+2.3.1.11 Infrastructure work planning and controls
+2.3.1.12 Contingency planning
+2.3.1.2 Level crossing obstruction
+2.3.1.3 Measures to reduce collisions on level crossings
+2.3.1.4 Level crossing operating rules
+2.3.1.6 Maintenance obstruction operating rules
+2.3.1.7 Movement of infrastructure work related trains
+2.3.1.8 Method to mitigate risk of normal train movements
+2.3.1.9 Segregation using single line working
+2.3.2 Controls - Level Crossings
+"2.3.2.1 Control different level crossing types, lineside signs and signalling equipment"
+2.3.2.2 ) Include level crossing locations in route information
+2.3.2.3 Mitigate the risk of an obstruction on the line
+2.3.2.4 Control an increase in risk when a level crossing cannot be normally operated
+2.3.3 Control - Infrastructure work
+2.3.3.1 Infrastructure work operating rules
+2.3.3.2 Single line working procedures where bi-directional signalling not available
+2.4.1 Context
+2.4.1.1 Controls prevent threat to train movements presented by an obstruction or unsafe condition
+2.4.1.2 Operational controls.Prompt and accurate problem reporting.Action preventing trains approaching affected location.Safe conditions re-establshed for train movements
+2.4.1.3 Suspect evidence hazard
+2.4.1.4 Precise hazard nature and potential impact
+2.4.1.5 Resumption of train movements.Safety condition.Apply tempporary control.Visual examination.Hazard risk assessment
+2.4.1.6 Incident management
+2.4.1.7 Mitigate risk arising from removing hazard
+2.4.1.8 Train protection from identified hazard
+2.4.2 Controls
+2.4.2.1 Control hazards  to train movements
+2.4.2.2 Accurately assess the impact on safe movement
+2.4.2.3 Use trains to examine line harzard
+2.4.2.4 Temporary control during Hazard
+2.4.2.5 ApplycCriteria to decide whether it is safe to permit train movements
+2.5.1 Context
+"2.5.1.1 Train ready for movement.Passenger boarding, door security and safe dispatch.Freight identification, loading and security.Train formation.Permitted train speed.Braking capacity"
+2.5.1.2 Train has authority to move
+2.5.1.3 Infrastructure safety assured (see 2.3 2.4)
+2.5.1.4 Significant hazards addressed
+2.5.1.5 Control framework dangerous transport goods
+2.5.1.6 Engineering controls minimise risk of passenger injury
+2.5.2 Controls - All trains
+2.5.2.1 trains not permitted to start journey unless there is sufficient braking capacity
+2.5.2.2 Trains without automatic brakes or through pipes cannot move on the mainline network without additional safeguards applied
+2.5.2.3 Brake operation continuity testing (in accordance with rolling stock requirements and train formation)
+2.5.2.4 Sufficient winter braking operation
+2.5.2.5 Brake continuity testing operating rules
+2.5.2.6 Responsible train preparation and operation people aware of train permitted speed
+2.5.2.7 Responsible train preparation and operation people aware of temporary speed reduction
+"2.5.2.8 Responsible people aware of vehicles coupling, braking connections and other control system operations"
+2.5.2.9 Train defect controls (see 2.7)
+2.5.3 Controls - Freight trains
+2.5.3.1 Load and prepare
+2.5.3.2 Control On-track machines and plant operation and safety checks
+2.5.3.3 Provide wagon information and status to people responsible for train preparation and operation
+2.5.3.4 Relevant people informed of special loads operating rules
+2.5.3.5  Mitigate risk of an incident for dangerous goods
+2.5.3.6 Providef freight train and route information before starting journey
+2.5.3.7 Stow on-track machine equipment on a freight train
+2.5.4 Controls - Passenger trains
+2.5.4.1 Provide stopping points information to train crew including platform length
+2.5.4.2 Train overruns platform
+2.5.4.3 Train dispatch
+2.5.4.4 Locomotive hauled passenger trains' train drivers provided with train and route availability information
+2.6.1 Context
+2.6.1.1 Confirm compatibility of a train with the route' infrastructure
+2.6.1.10 Define conditions vehicle movements
+2.6.1.12 Prevent affected doors opening where a train is too long for a platform
+2.6.1.2 Authorise vehicle to operate on GB mainline railway based on acceptance and registration process
+"2.6.1.3 Rolling stock and infrastructure compatibility.Vehicle dimensions and clearances (adjacent track, vehicle and infrastucture) compatibility.Vehicle weight and capacity.Signalling system"
+2.6.1.4 Route availability system provides consistent and simple method to assess compatibility of train weight with underlying bridges
+2.6.1.5 Express Route Availability as a number (vehicle and infrastructure)
+2.6.1.6 Freight Wagon RA based on payload weight
+2.6.1.7 Train compatibility with signalling systems
+"2.6.1.8 Compatibility factors (train braking, weight, length, protection, capability, traction and in-cab systems)"
+2.6.1.9 Mitigate safety risk with incompatible train and infrastructure
+2.6.2 Controls
+2.6.2.1 Vehicle information including braking capacity provided (2.5)
+2.6.2.2 Provide responsible people RA of each vehicle and route information
+2.6.2.3 Publish Infrastructure details including RA and vehicle constraints
+2.6.2.4 Operating rules includes vehicle and infrastructure constraints and procedures
+2.6.2.5 Train door operation (platform too short)
+2.7.1 Context
+2.7.1.1 Train hazard presented
+2.7.1.10 Displaced or insecure freight load potentially causing collision
+2.7.1.2 Primary controls.Prompt and accurate information reporting an event.Prevent approaching train to an event that presents a hazard.Confirm safe conditions for safe train movement
+2.7.1.3 Prevent trains starting journey or leaving location with defects
+2.7.1.4 Rolling stock defect contingency plan
+2.7.1.5 Train movements due to unrectifiable defect
+2.7.1.6 Express movement limitations as a location
+2.7.1.7 Mitigate defect risks using additional operating people
+2.7.1.8 Fire primary hazard causing secondary hazards on-board a train
+2.7.19 Dangerous goods incident evacuation
+2.7.2 Controls
+"2.7.2.1 Promptly report train defect, fires dangerous goods incident or displaced loads"
+2.7.2.10 Respond to dangerous goods incident
+2.7.2.11 Loads displaced and/or insecure (2.5 movement of vehicles)
+2.7.2.2 Train approaching obstruction or unsafe location
+2.7.2.3 Protect train crew 
+2.7.2.4 Protect train crew from adverse health effects from dangerous goods
+2.7.2.5 Vehicle type or class maintenance and train preparation instructions inc safeguards when defect occurs
+2.7.2.6 Check brake continuity (2.5)
+2.7.2.7 Freight trains safe loading inc dangerous good identification and secure closure (2.5)
+2.7.2.8 Move defective train on mainline railway
+2.7.2.9 Respond to train fires
+2.8.1 Context
+2.8.1.1 Carrying out works on or near a line and protect public
+2.8.1.10 Moving defective rail vehicles
+2.8.1.11 Safely access via walking routes
+2.8.1.12 Apply principle to public at stations when someone appears to be at risk
+2.8.1.13 Warning and protecting level crossing users
+2.8.1.14 Hazard potentially effecting train safety (2.3)
+2.8.1.2 Patrol or inspect infrastructure over a distance
+2.8.1.3 Timely plan infrastructure work
+2.8.1.4 Physically separate people from moving trains. Warn people of approaching trains (protection and warning procedures)
+"2.8.1.5 Move rail-borne plan, on-track machines and trains in maintenance area"
+2.8.1.6 Work on open line adhering to procedures (restricted locations)
+2.8.1.8 Moving trains risks
+2.8.1.9 Examine and/or repair defective trains on a running line
+2.8.10 Control stations
+2.8.11 Control Level Crossings
+2.8.2 Control on or near the line
+2.8.2.1 Warning and protecting people procedures
+2.8.3 Control infrastructure
+2.8.3.1 Planning includes access points and safest route between access point and planned work locations
+2.8.3.2 Local information provided to implement protection and warning
+"2.8.3.3 Engineering trains, on-track plant or machinery movements in protected area"
+2.8.3.4 People working alone
+2.8.4 Control manual coupling or uncoupling and shunting movements of rail vehicles
+2.8.5 Control rail vehicle examination or repair
+2.8.6 Control communication between train drivers and signallers
+2.8.7 Control train drivers change cabs
+2.8.8 Control manual operation of level crossing
+2.8.9 Control retrieving objects from a platform line at a station
+2.9.1 Context
+2.9.1.1 Electric traction' overhead lines or conductor rails hazard
+2.9.1.2 Scope covered in 2.8
+2.9.1.3 Additional controls and safeguards
+2.9.1.4 Additional isolation or restrictions (live) controls
+2.9.2 Control
+2.9.2.1 Control system specific instructions that impact on safety
+2.9.2.2 Control working near electrified lines.Identification and explanation of signs.Switching off procedure.Control message protocols
+"2.9.2.3 Control work on electrified lines.Planning, establishing and maintaining safe system of work.Isolate and secure electrical equipment.Determine whether work can be carried out without isolation based on distance between electrical equipment and work site.Identify safety equipment to protect from electric shock"
+"Before a train is allowed to start or continue move, it must have an authority to move that clearly indicates the limit of that authority"
+People must be kept at a safe distance from moving trains
+The method of signalling must maintain a space interval between trains that is safe
+The workforce must be protected from particular hazards associated with electrified railways
+Train proceeding over any portion of line must not be obstructed in a way that threatens safety
+Trains must be prevented from proceeding onto a portion of line if it known or supsected that it would not be safe for them to pass
+Trains must not be allowed to begin or continue their journeys until it is safe for them to do so
+"Trains must not continue to operate after they have been found to be unsafe in any respect, until measures have been taken to allow them to continue safely"
+Trains must only be allowed to operate over an portion of line as long as the rolling stock is compatible with the infrastructure
+Operating rules and procedures
+2.8 Keeping people away from moving trains
+Protection of workers from electrification hazards
+Compatibility of rolling stock and infrastructure
+Tranport operators safety processes
+Appendix A - Fundamental Operating Principles
+Keeping people away from moving trains
+2.1 Separation of Trains
+2.7 Hazards to safe operation from unsafe trains
+2.5 Conditions for safe movement of trains
+Railway Group Standards
+Hazards to safe operation from unsafe trains
+Part 2 Fundamental Operating Principles
+2.9 Protection of workers from electrification hazards
+2.2 Movement authority for a train
+2.6 Compatibility of rolling stock and infrastructure
+2.3 Obstruction of the line: level crossings and infrastructure work
+Line Obstruction
+2.4 Line obstructed or in an unsafe condition
