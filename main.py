@@ -24,6 +24,7 @@ from docx.api import Document
 import numpy as np
 from fastapi import FastAPI, HTTPException
 from transformers import BertModel, BertTokenizer
+from mangum import Mangum
 nltk.download("stopwords")
 nltk.download('punkt')
 
@@ -160,6 +161,7 @@ docs_sent_tokens=list(chain.from_iterable(main_df['Sentence_Tokenize_rules']))
 
 
 app = FastAPI()
+handler = Mangum(app)
 
 @app.get("/vectorize")
 async def vectorize(search_sentence: str):
